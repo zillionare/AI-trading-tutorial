@@ -66,7 +66,7 @@
 
 QQ讨论群： 
 
-![](http://images.jieyu.ai/images/2020-10/实战AI量化交易群.png)
+![](http://images.jieyu.ai/images/2020-10/实战AI量化交易.png)
 
 进群先star本项目，报github id
 
